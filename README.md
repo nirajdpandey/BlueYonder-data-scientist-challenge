@@ -135,4 +135,3 @@ Now you can see the top hundred prediction and the loss of the model. If you wan
 ![image](https://github.com/nirajdevpandey/Clean-code-Challenge/blob/master/plots/error.png)
 
 Thanks a lot
-# BlueYonder-data-scientist-challenge
